@@ -1,4 +1,4 @@
-![ga4](https://www.google-analytics.com/collect?v=2&tid=G-WZXDRH4GK5&cid=1&en=page_view&sid=1&dl=workload-identity-federation&dt=readme.md)
+![ga4](https://www.google-analytics.com/collect?v=2&tid=G-WZXDRH4GK5&en=page_view&dl=workload-identity-federation&dt=readme.md)
 # Workload Identity Federation
 
 Workload identity federation (WIF) is a way to authenticate workloads in Google Cloud without the need of service account keys. 
