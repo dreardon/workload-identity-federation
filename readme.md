@@ -24,4 +24,4 @@ This is not an officially supported Google product
 | AWS | This code demonstrates an AWS Lambda function calling the Google Cloud Vision API using REST via Workload Identity Federation. | https://github.com/dreardon/gcp-workload-identity-federation-aws-lambda-rest |
 | AWS | This code demonstrates an AWS EC2 Instance calling the Google Cloud Vision API using REST via Workload Identity Federation. | https://github.com/dreardon/gcp-workload-identity-federation-aws-ec2-rest |
 | Okta | This code demonstrates an Okta custom application to exchange credentials for short-lived Google Cloud credentials via Workload Identity Federation.  | https://github.com/dreardon/workload-identity-okta |
-[ Azure | This code demonstrates an Azure VM Instance calling the Google Cloud Vision API using the Google Cloud SDK via Workload Identity Federation. | https://github.com/dreardon/workload-identity-azure
+| Azure | This code demonstrates an Azure VM Instance calling the Google Cloud Vision API using the Google Cloud SDK via Workload Identity Federation. | https://github.com/dreardon/workload-identity-azure |
